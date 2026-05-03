@@ -1,6 +1,6 @@
 # Checkpoint 2 — Dynamic Programming: Rotas de Metrô
 
-**Disciplina:** Dynamic Programming  
+**Disciplina:** FIAP - Dynamic Programming  
 **Checkpoint:** Checkpoint 2 — Rotas de Metrô com Recursão e Memoização
 
 ## Integrantes do Grupo
