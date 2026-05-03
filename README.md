@@ -13,8 +13,6 @@ Gustavo Panham Dourado | RM-563904
 Paulo Cesar de Govea Junior | RM-566034 
 Thomas Jeserfon Santana Wang | RM-565104 
 
-> ⚠️ **Substitua os nomes e RAs acima antes da entrega!**
-
 ## Estrutura do Repositório
 
 ```
