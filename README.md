@@ -47,5 +47,5 @@ jupyter notebook notebook.ipynb
 
 ## Link para o Notebook
 
-https://github.com/chrisschunck/Subway-Routes-with-Recursion-and-Memoization.git
+[https://github.com/chrisschunck/Subway-Routes-with-Recursion-and-Memoization.git](https://github.com/chrisschunck/Subway-Routes-with-Recursion-and-Memoization/blob/main/notebook.ipynb)
 [notebook.ipynb](./notebook.ipynb)
